@@ -1,0 +1,21 @@
+{
+  "name": "font-maker",
+  "version": "1.0.0",
+  "description": "字体文件生成自动化",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webfont",
+    "iconfont"
+  ],
+  "author": "Lever",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-iconfont": "^8.0.1",
+    "gulp-iconfont-css": "^2.1.0",
+    "gulp-iconfont-template": "0.0.3"
+  }
+}

@@ -1,0 +1,258 @@
+@font-face {
+	font-family: "matrix_newicon";
+	src: url('./fonts/matrix_newicon.eot');
+	src: url('./fonts/matrix_newicon.eot?#iefix') format('eot'),
+		url('./fonts/matrix_newicon.woff2') format('woff2'),
+		url('./fonts/matrix_newicon.woff') format('woff'),
+		url('./fonts/matrix_newicon.ttf') format('truetype'),
+		url('./fonts/matrix_newicon.svg#matrix_newicon') format('svg');
+}
+
+.icon:before {
+	font-family: "matrix_newicon";
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	/* speak: none; only necessary if not using the private unicode range (firstGlyph option) */
+	text-decoration: none;
+	text-transform: none;
+}
+
+
+.icon-add:before {
+	content: "\E001";
+}
+
+.icon-add_fund:before {
+	content: "\E002";
+}
+
+.icon-bin:before {
+	content: "\E003";
+}
+
+.icon-bin2:before {
+	content: "\E004";
+}
+
+.icon-cancel-circle:before {
+	content: "\E005";
+}
+
+.icon-checkbox:before {
+	content: "\E006";
+}
+
+.icon-checked:before {
+	content: "\E007";
+}
+
+.icon-checkmark:before {
+	content: "\E008";
+}
+
+.icon-circle-down:before {
+	content: "\E009";
+}
+
+.icon-circle-left:before {
+	content: "\E00A";
+}
+
+.icon-circle-right:before {
+	content: "\E00B";
+}
+
+.icon-circle-up:before {
+	content: "\E00C";
+}
+
+.icon-circle:before {
+	content: "\E00D";
+}
+
+.icon-circle_check:before {
+	content: "\E00E";
+}
+
+.icon-close:before {
+	content: "\E00F";
+}
+
+.icon-compare:before {
+	content: "\E010";
+}
+
+.icon-compare2:before {
+	content: "\E011";
+}
+
+.icon-compare3:before {
+	content: "\E012";
+}
+
+.icon-compare4:before {
+	content: "\E013";
+}
+
+.icon-compare5:before {
+	content: "\E014";
+}
+
+.icon-compare6:before {
+	content: "\E015";
+}
+
+.icon-contact:before {
+	content: "\E016";
+}
+
+.icon-cross:before {
+	content: "\E017";
+}
+
+.icon-ctrl:before {
+	content: "\E018";
+}
+
+.icon-down3:before {
+	content: "\E019";
+}
+
+.icon-download:before {
+	content: "\E01A";
+}
+
+.icon-edit:before {
+	content: "\E01B";
+}
+
+.icon-edit2:before {
+	content: "\E01C";
+}
+
+.icon-flag:before {
+	content: "\E01D";
+}
+
+.icon-fund-pool:before {
+	content: "\E01E";
+}
+
+.icon-fund_hold:before {
+	content: "\E01F";
+}
+
+.icon-fund_price:before {
+	content: "\E020";
+}
+
+.icon-fund_self:before {
+	content: "\E021";
+}
+
+.icon-garbage:before {
+	content: "\E022";
+}
+
+.icon-lock:before {
+	content: "\E023";
+}
+
+.icon-lock1:before {
+	content: "\E024";
+}
+
+.icon-lock2:before {
+	content: "\E025";
+}
+
+.icon-lock3:before {
+	content: "\E026";
+}
+
+.icon-minus:before {
+	content: "\E027";
+}
+
+.icon-person:before {
+	content: "\E028";
+}
+
+.icon-plus:before {
+	content: "\E029";
+}
+
+.icon-public-opinion:before {
+	content: "\E02A";
+}
+
+.icon-remove:before {
+	content: "\E02B";
+}
+
+.icon-right-arrow:before {
+	content: "\E02C";
+}
+
+.icon-right:before {
+	content: "\E02D";
+}
+
+.icon-search:before {
+	content: "\E02E";
+}
+
+.icon-spinner11:before {
+	content: "\E02F";
+}
+
+.icon-star-empty:before {
+	content: "\E030";
+}
+
+.icon-star-full:before {
+	content: "\E031";
+}
+
+.icon-star-half:before {
+	content: "\E032";
+}
+
+.icon-star:before {
+	content: "\E033";
+}
+
+.icon-unlock:before {
+	content: "\E034";
+}
+
+.icon-unlocked:before {
+	content: "\E035";
+}
+
+.icon-up3:before {
+	content: "\E036";
+}
+
+.icon-up_arrow:before {
+	content: "\E037";
+}
+
+.icon-upload:before {
+	content: "\E038";
+}
+
+.icon-warning:before {
+	content: "\E039";
+}
+
+.icon-warning2:before {
+	content: "\E03A";
+}
+
+.icon-index.html:before {
+	content: "\E03B";
+}
